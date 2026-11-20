@@ -1,12 +1,13 @@
 {
   "name": "fsd-mt1-705",
   "version": "1.0.0",
-  "description": "Mid Term-1 Backend Assignment - Set B: Students API (In-Memory Array)",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Mayank Yadav (Roll No: 2500320100705)",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2"
